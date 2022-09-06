@@ -14,8 +14,8 @@
 
 <div>
 <a href="https://github.com/BellaLima">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?BellaLima=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?BellaLima=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?BellaLima=BellaLima&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?BellaLima=BellaLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 <!--
 **BellaLima/BellaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
