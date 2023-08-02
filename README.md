@@ -34,5 +34,5 @@
 </div>
 
 <div align="center">
-
+![snake gif](https://github.com/BellaLima/BellaLima/blob/output/github-contribution-grid-snake.gif)
 </div>
