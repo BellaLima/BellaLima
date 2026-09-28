@@ -1,34 +1,72 @@
-<div>
+
+<div align="center">
   
-  <h1 align="center">
-    Oi Tudo bem? Eu sou a 
-    <a href="https://www.linkedin.com/in/isabelarodrigueslima/">Isabela Rodrigues Lima</a>
-  </h1> 
+### Eu sou a Isabela Rodrigues Lima
+
+<a href="https://www.linkedin.com/in/isabelarodrigueslima/">
+  <img src="https://img.shields.io/badge/LinkedIn-Conecte--se comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/isabela.dll/">
+  <img src="https://img.shields.io/badge/Instagram-Siga--me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<br>
+
+<p>
+  💻 Desenvolvedora em constante aprendizado, apaixonada por tecnologia e desenvolvimento de software.
+  <br>
+  🚀 Sempre em busca de novos conhecimentos, desafios e oportunidades para evoluir na área de tecnologia.
+</p>
+
 </div>
 
+---
+
+## 👩‍💻 Sobre mim
+
+- 🎓 Meu objetivo é crescer profissionalmente na área de tecnologia.
+- 💡 Tenho interesse em desenvolvimento web e criação de soluções digitais.
+- 🌱 Estou sempre aprendendo e aprimorando minhas habilidades.
+- 🤝 Aberta a colaborar em projetos e compartilhar conhecimentos.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
 <div align="center">
-  <a href="https://github.com/BellaLima">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BellaLima&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaLima&theme=dracula&hide_border=false&&layout=compact"/>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,git,linux,vscode&theme=dark" alt="Tecnologias e ferramentas: HTML, CSS, JavaScript, React, Node.js, PHP, Git, Linux e Visual Studio Code"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaLima&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub da Isabela"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaLima&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas pela Isabela"/>
+
+</div>
+
+---
+
+## 📫 Entre em contato
+
+<div align="center">
+
+  <a href="mailto:isabela.rodrigues00@outlook.com.br">
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar um e-mail"/>
   </a>
-</div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-          
-          
-</div><br>
+  <a href="https://www.linkedin.com/in/isabelarodrigueslima/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Meu LinkedIn"/>
+  </a>
 
-<div align="center">
-  <a href="https://www.instagram.com/isabela.dll/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/isabelarodrigueslima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:isabela.rodrigues00@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/isabela.dll/">
+    <img src="https://img.shields.io/badge/Instagram-Perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Meu Instagram"/>
+  </a>
+
 </div>
