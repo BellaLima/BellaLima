@@ -44,13 +44,23 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BellaLima&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub da Isabela"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaLima&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas pela Isabela"/>
-
+  <a href="https://github.com/BellaLima">
+    <img
+      height="180"
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=BellaLima&show_icons=true&theme=dracula&hide_border=true"
+      alt="Estatísticas do GitHub"
+    />
+  </a>
+  <a href="https://github.com/BellaLima">
+    <img
+      height="180"
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BellaLima&layout=compact&theme=dracula&hide_border=true&langs_count=6"
+      alt="Linguagens mais utilizadas"
+    />
+  </a>
 </div>
-
 ---
 
 ## 📫 Entre em contato
